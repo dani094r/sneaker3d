@@ -13,7 +13,7 @@ _________________________________________________________________________
 
 
 
-## r3f-template
+## about the project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
