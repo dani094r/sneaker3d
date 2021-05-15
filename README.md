@@ -29,8 +29,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure you run `npm install` after cloning this repostiory.
 
-IMPORTANT!!
-As of 15/5 running npm audit fix will end up breaking the app, because of issues with PostCSS (create-react-app dependency), so avoid doing that, app should run just fine.
+`IMPORTANT!!`
+As of 15/5 running npm audit fix will end up breaking the app, because of issues with PostCSS (react-scripts dependency), so avoid doing that, app should run just fine.
 
 Run `npm start` to start the application.
 
