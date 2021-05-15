@@ -1,4 +1,4 @@
-# r3f-SNEAK3RD
+# SNEAK3RD
 
 Demo app created for React exam, Web Development, Zealand Academy 2021.
 
