@@ -2,10 +2,6 @@
 
 Demo app created for React exam, Web Development, Zealand Academy 2021.
 
-Starter:\
-r3f-template\
-https://github.com/Epiczzor/r3f-template
-
 Model:\
 RTFKT Creator One sneaker\
 https://sketchfab.com/3d-models/rtfkt-creator-one-9b8d69cfcd1b4addb770a4768bef6a6d
@@ -19,20 +15,24 @@ _________________________________________________________________________
 
 ## r3f-template
 
-If you are just starting off with react-three-fiber then this template is for you. I have done a basic setup and a few usefull packages along with it.
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 | Packages        | Versions           |
 | ------------- |:-------------:|
-| three      | ^0.127.0 |
-| @react-three/fiber     | ^6.0.10     |
-| @react-three/drei     | ^4.1.2     |
-| @react-spring/three     | ^9.1.0    |
+| three      | ^0.128.0 |
+| @react-three/fiber     | ^6.1.2     |
+| @react-three/drei     | ^4.3.3     |
+| @react-three/valtio     | ^1.0.4     |
+| react-color      | ^2.19.3 |
 
-## Using this Template
+## Using the demo app
 
-make sure you run `npm install` after cloning this repostiory.
+Make sure you run `npm install` after cloning this repostiory.
+
+IMPORTANT!!
+As of 15/5 running npm audit fix will end up breaking the app, because of issues with PostCSS (create-react-app dependency), so avoid doing that, app should run just fine.
+
+Run `npm start` to start the application.
 
 ## Read more
 
@@ -43,10 +43,7 @@ make sure you run `npm install` after cloning this repostiory.
 ## Installed Packages
 
 - [`@react-three/drei`](https://github.com/react-spring/drei) &ndash; useful helpers for react-three-fiber
-- [`zustand`](https://github.com/react-spring/zustand) &ndash; state management
-- [`react-use-gesture`](https://github.com/react-spring/react-use-gesture) &ndash; mouse/touch gestures
-- [`aphrodite`](https://github.com/Khan/aphrodite) &ndash; Support for colocating your styles with your JavaScript component.
-- [`react-three-gui`](https://github.com/ueno-llc/react-three-gui) &ndash; GUI/debug tools
+
 
 ## Available NPM Scripts
 
