@@ -40,11 +40,6 @@ Run `npm start` to start the application.
 - Learn more about react - [https://reactjs.org/](https://reactjs.org/)
 - Learn more about react-three-fiber - [https://github.com/pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 
-## Installed Packages
-
-- [`@react-three/drei`](https://github.com/react-spring/drei) &ndash; useful helpers for react-three-fiber
-
-
 ## Available NPM Scripts
 
 In the project directory, you can run:
